@@ -2,7 +2,9 @@ import { useEffect, useState } from "react";
 import { Header } from "../../components/Header";
 import { Summary } from "../../components/summnary";
 import { SearchForm } from "./components/SearchForm";
-import { PriceHighLight, TransactionsContainer, TransactionsTable } from "./styles";
+import { PriceHighLight, TransactionsContainer, TransactionsTable,  } from "./styles";
+import { Transaction } from '../../@types/Transaction';
+
 
 
 

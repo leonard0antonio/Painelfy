@@ -1,3 +1,75 @@
+# 💸 Painelfy
+
+Painelfy é uma aplicação web desenvolvida para o controle de transações financeiras pessoais, permitindo o gerenciamento de entradas, saídas e saldo de forma prática e visual.  
+Este projeto foi construído como parte do meu processo de aprendizado com **React**, **TypeScript** e **Vite** — sendo meu **primeiro projeto completo com essa stack moderna**. 🚀
+
+---
+
+## 🎯 Objetivo
+
+Criar uma ferramenta simples, bonita e funcional para registrar movimentações financeiras, com foco em:
+
+- Boa experiência de usuário (UX)
+- Visualização clara de informações
+- Aprendizado de tecnologias modernas do ecossistema React
+
+---
+
+> ⚠️ **Observação:** Até o momento, consegui implementar com sucesso a **estrutura da aplicação** e a **integração com a API** para carregar as transações.  
+> Funcionalidades como cadastro de nova transação, filtros mais avançados e feedback visual ainda estão em desenvolvimento ou planejadas para versões futuras.
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- ⚛️ **React** – Biblioteca para construção de interfaces.
+- 🟦 **TypeScript** – Superset do JavaScript com tipagem estática.
+- ⚡ **Vite** – Ferramenta de build rápida e moderna.
+- 🎨 **Styled-components** – Estilização com CSS-in-JS e suporte a temas.
+- 🌐 **Context API (React)** – Gerenciamento de estado global.
+- 📏 **ESLint** – Padronização e qualidade de código.
+
+---
+
+## 🧩 Funcionalidades
+
+- ✅ **Resumo financeiro** com totais de entradas, saídas e saldo.
+- 📄 **Tabela de transações** com listagem dinâmica dos dados.
+- 🔍 **Busca de transações** por descrição.
+- ♻️ **Atualização automática** com carregamento de dados via `fetch`.
+- 💡 **Contexto global** para compartilhamento de estado entre componentes.
+
+---
+
+## 🖼️ Capturas de Tela
+
+### 📊 Tela com transações
+![Print 1](https://drive.google.com/uc?export=view&id=1NG_5MiMJDMoJvuLavNP0DxAGjShgOjDM)
+
+### 🧾 Tela com formulário de busca e resumo
+![Print 2](https://drive.google.com/uc?export=view&id=15lG91ibDhneNgd6puIVsrTXOwjI6OzPx)
+
+---
+
+## 📚 Lições Aprendidas
+
+Durante o desenvolvimento do Painelfy, pude:
+
+- Praticar o uso do **React com TypeScript**, tipando corretamente props, estados e contextos.
+- Compreender melhor a **estruturação de projetos em React**.
+- Trabalhar com **hooks personalizados** e **consumo de APIs**.
+- Explorar o uso de **temas com styled-components** para consistência visual.
+- Aplicar o **Context API** de maneira eficiente, eliminando o uso excessivo de props.
+
+---
+
+## ✅ Conclusão
+
+Este projeto foi um marco no meu aprendizado. Com ele, tive uma visão mais ampla de como montar uma aplicação React de ponta a ponta, do setup ao consumo de dados.  
+Apesar de ainda não conter todas as funcionalidades desejadas, Painelfy representa um avanço importante na minha jornada como desenvolvedor e será continuamente aprimorado. ✨
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
